@@ -1,6 +1,6 @@
 'use strict';
 
-const arvish = require('@jopemachine/arvish');
+const arvish = require('arvish');
 
 const keyCodes = [
 	{
