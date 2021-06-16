@@ -1,6 +1,6 @@
 {
   "name": "arvis-keycode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get JavaScript keycode",
   "license": "MIT",
   "repository": "radibit/alfred-keycode",
@@ -21,11 +21,11 @@
   ],
   "keywords": [
     "arvis",
-    "workflow",
+    "arvis-workflow",
     "keycode"
   ],
   "dependencies": {
-    "arvish": "^0.0.3"
+    "arvish": "^0.1.3"
   },
   "devDependencies": {
     "ava": "^0.16.0",
