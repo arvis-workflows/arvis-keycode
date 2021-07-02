@@ -1,6 +1,6 @@
 {
   "name": "arvis-keycode",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Get JavaScript keycode",
   "license": "MIT",
   "repository": "radibit/alfred-keycode",
@@ -9,7 +9,7 @@
     "node": ">=4"
   },
   "scripts": {
-    "test": "xo && ava",
+    "test": "ava",
     "postinstall": "arvish-init",
     "preuninstall": "arvish-cleanup"
   },
@@ -25,9 +25,10 @@
     "keycode"
   ],
   "dependencies": {
-    "arvish": ">=0.3.1"
+    "arvish": ">=0.3.6"
   },
   "devDependencies": {
+    "arvish-test": ">=0.0.2",
     "ava": "^0.16.0",
     "xo": "^0.17.0"
   },

@@ -2,10 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/jopemachine/arvis-extension-validator/master/workflow-schema.json",
   "category": "Tools",
   "creator": "Radimir Bitsov",
-  "name": "keycode",
+  "name": "arvis-keycode",
   "readme": "",
   "enabled": true,
-  "version": "0.0.3",
+  "version": "0.0.4",
+  "description": "⌨ Arivs workflow to get JavaScript keycodes.",
+  "webAddress": "https://github.com/jopemachine/arvis-keycode",
   "defaultIcon": "icon.png",
   "commands": [
     {
